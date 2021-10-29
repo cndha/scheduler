@@ -5,7 +5,7 @@ import Show from './Show';
 import Empty from './Empty';
 
 export default function Appointment(props) {
-  const hardcode = (props.time ? `Appointment at ${props.time}` : "No appointments");
+  // const hardcode = (props.time ? `Appointment at ${props.time}` : "No appointments");
   
   return (
     <article className="appointment">
