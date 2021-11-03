@@ -28,7 +28,3 @@ npm run storybook
 
 ## Final Product
 ![View of all the appointments for the day] (https://github.com/cndha/scheduler/blob/master/docs/appointments.png?raw=true)
-
-![Edit for current existing appointments] (https://github.com/cndha/scheduler/blob/master/docs/appointment-edit.png?raw=true)
-
-![Confirmation for appointment cancellation] (https://github.com/cndha/scheduler/blob/master/docs/appointment-cancellation.png?raw=true)
