@@ -94,7 +94,7 @@ export default function Appointment(props) {
       {mode === EDITING && (
         <Form
         student={props.interview.student} 
-        interviewer={props.interview.interviewer.id} 
+        interviewer={props.interview.interviewer.id} // then editing doesnt have pre-selected interviewer
         interviewers={props.interviewers} 
         onSave={save} 
         onCancel={back}
